@@ -22,3 +22,16 @@ C:\Users\JRCWRXG\Desktop\Navegador_VBNET\Navegador_VBNET\obj\Debug\Navegador_VBN
 C:\Users\JRCWRXG\Desktop\Navegador_VBNET\Navegador_VBNET\obj\Debug\WebBrowser_Login.vbproj.GenerateResource.Cache
 C:\Users\JRCWRXG\Desktop\Navegador_VBNET\Navegador_VBNET\obj\Debug\Navegador_VBNET.Form3.resources
 C:\Users\JRCWRXG\Desktop\Navegador_VBNET\Navegador_VBNET\obj\Debug\Navegador_VBNET.Form4.resources
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\bin\Debug\Navegador_VBNET.exe.config
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\obj\Debug\Navegador_VBNET.xml
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\obj\Debug\Navegador_VBNET.pdb
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\bin\Debug\Navegador_VBNET.exe
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\bin\Debug\Navegador_VBNET.pdb
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\bin\Debug\Navegador_VBNET.xml
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\obj\Debug\Navegador_VBNET.Form1.resources
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\obj\Debug\Navegador_VBNET.Form2.resources
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\obj\Debug\Navegador_VBNET.Form3.resources
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\obj\Debug\Navegador_VBNET.Form4.resources
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\obj\Debug\Navegador_VBNET.Resources.resources
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\obj\Debug\WebBrowser_Login.vbproj.GenerateResource.Cache
+C:\Users\JRCWRXG\MinhasCoisas\Navegador_VBNET\obj\Debug\Navegador_VBNET.exe
