@@ -1,0 +1,11 @@
+c:\_vbn\Navegador_VBNET\Navegador_VBNET\bin\Debug\Navegador_VBNET.exe.config
+c:\_vbn\Navegador_VBNET\Navegador_VBNET\bin\Debug\Navegador_VBNET.exe
+c:\_vbn\Navegador_VBNET\Navegador_VBNET\bin\Debug\Navegador_VBNET.pdb
+c:\_vbn\Navegador_VBNET\Navegador_VBNET\bin\Debug\Navegador_VBNET.xml
+c:\_vbn\Navegador_VBNET\Navegador_VBNET\obj\Debug\Navegador_VBNET.Form1.resources
+c:\_vbn\Navegador_VBNET\Navegador_VBNET\obj\Debug\Navegador_VBNET.Resources.resources
+c:\_vbn\Navegador_VBNET\Navegador_VBNET\obj\Debug\Navegador_VBNET.vbproj.GenerateResource.Cache
+c:\_vbn\Navegador_VBNET\Navegador_VBNET\obj\Debug\Navegador_VBNET.exe
+c:\_vbn\Navegador_VBNET\Navegador_VBNET\obj\Debug\Navegador_VBNET.xml
+c:\_vbn\Navegador_VBNET\Navegador_VBNET\obj\Debug\Navegador_VBNET.pdb
+c:\_vbn\Navegador_VBNET\Navegador_VBNET\obj\Debug\Navegador_VBNET.Form2.resources
